@@ -1,0 +1,27 @@
+{
+  "name": "@ily1606/vue-font-awesome-pro",
+  "version": "0.1.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "import": "node autoImport.mjs"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.0",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.5.0",
+    "eslint-plugin-vue": "^9.0.0",
+    "prettier": "^2.5.1",
+    "vite": "^2.9.12",
+    "vue": "^3.2.37",
+    "@ily1606/pro-duotone-svg-fontawesome": "^0.1.0",
+    "@ily1606/pro-light-svg-fontawesome": "^0.1.0",
+    "@ily1606/pro-regular-svg-fontawesome": "^0.1.0",
+    "@ily1606/pro-solid-svg-fontawesome": "^0.1.0",
+    "@ily1606/pro-thin-svg-fontawesome": "^0.1.0"
+  },
+  "type": "module"
+}
