@@ -19,7 +19,7 @@ npm install @ily1606/pro-thin-svg-fontawesome @ily1606/pro-light-svg-fontawesome
 ### Usage
 
 ```js
-import { VueFontAwesome, Config as FaConfig } from "../index.js";
+import { VueFontAwesome, Config as FaConfig } from "@ily1606/vue-font-awesome-pro";
 import { fa0, fa1 } from "@ily1606/pro-solid-svg-fontawesome";
 import {
   fa1 as reFa1,

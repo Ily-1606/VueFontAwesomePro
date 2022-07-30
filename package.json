@@ -1,6 +1,6 @@
 {
   "name": "@ily1606/vue-font-awesome-pro",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -27,5 +27,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Ily-1606/VueFontAwesomePro.git"
-  }
+  },
+  "main": "index.js"
 }
