@@ -1,6 +1,6 @@
 {
   "name": "@ily1606/vue-font-awesome-pro",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -23,5 +23,9 @@
     "@ily1606/pro-solid-svg-fontawesome": "^0.1.0",
     "@ily1606/pro-thin-svg-fontawesome": "^0.1.0"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ily-1606/VueFontAwesomePro.git"
+  }
 }
